@@ -1,4 +1,4 @@
-# Digifist Figma to CSS
+# Digifist Figma to HTML-CSS-JS
 
 ## Installing information
 
