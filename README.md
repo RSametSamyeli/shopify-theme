@@ -1,4 +1,4 @@
-# shopify-theme
+# Digifist Figma to CSS
 
 ## Installing information
 
